@@ -22,6 +22,12 @@
 
 ###
 
+###
+
+<h3 align="left">💻 Tech Stack</h3>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
   <img width="12" />
@@ -30,6 +36,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="60" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg" 
+  height="60" alt="grpc logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" 
+  height="60" alt="oauth logo" />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/authentik.svg" 
+  height="60" alt="authentik logo" />
+    <img width="12" />
+    <img src="https://www.autopsy.com/wp-content/uploads/2019/08/autopsy-logo.svg" 
+  height="60" alt="autopsy logo" />
+  <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/owasp-zap.webp" 
+  height="60" alt="OWASP ZAP logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -97,16 +118,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tagoKoder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tagoKoder/tagoKoder/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tagoKoder/tagoKoder/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tagoKoder/tagoKoder/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/santiago-tumbaco-koder/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -118,11 +129,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
-
-###
-
-###
-
-<img src="https://raw.githubusercontent.com/tagoKoder/tagoKoder/output/snake.svg" alt="Snake animation" />
 
 ###
