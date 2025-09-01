@@ -120,3 +120,9 @@
 </div>
 
 ###
+
+###
+
+<img src="https://raw.githubusercontent.com/tagoKoder/tagoKoder/output/snake.svg" alt="Snake animation" />
+
+###
